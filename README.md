@@ -34,6 +34,9 @@ Dự án được thực hiện nhằm phân tích dữ liệu bất động s�
 
 ## 5. Cấu trúc dự án
 
+## 5. Cấu trúc dự án
+
+```text
 BaoCaoCK_Nhom3/
 │
 ├── app.py
@@ -42,6 +45,7 @@ BaoCaoCK_Nhom3/
 ├── requirements.txt
 ├── .gitignore
 └── modified_data.csv
+```
 
 ## 6. Hướng dẫn cài đặt và sử dụng
 
@@ -72,11 +76,12 @@ jupyter notebook
 Mở file `BaoCaoCK_nhom3_Dudongianha.ipynb` để xem và thực thi nội dung phân tích.
 
 ## 7. Thành viên thực hiện
-
+```text
 | STT |     Họ và tên     |    MSSV    |
 | 1   | [Đỗ Quốc Duy]     | [24690901] |
 | 2   | [Huỳnh Lê Quốc An]| [24704711] |
 | 3   | [Lê Phước Thịnh]  | [24651371] |
+```
 
 ## 8. Kết luận
 

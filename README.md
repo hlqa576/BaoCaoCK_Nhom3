@@ -83,3 +83,13 @@ Mở file `BaoCaoCK_nhom3_Dudongianha.ipynb` để xem và thực thi nội dung
 ## 8. Kết luận
 
 Dự án giúp nhóm vận dụng kiến thức phân tích dữ liệu và Machine Learning vào bài toán bất động sản thực tế. Thông qua quá trình xử lý dữ liệu, trực quan hóa và xây dựng mô hình, nhóm có cơ hội tìm hiểu và đánh giá khả năng ứng dụng các thuật toán học máy trong việc phân tích và dự đoán giá nhà.
+
+## Ứng dụng dự đoán giá nhà trực tuyến
+
+Nhóm đã triển khai ứng dụng dự đoán giá nhà bằng Streamlit.
+
+**Truy cập ứng dụng tại đây:**
+
+[🏠 Chatbot dự đoán giá nhà](https://du-doan-gia-nha-nhom3.streamlit.app/)
+
+Người dùng có thể nhập các thông tin về căn nhà để hệ thống dự đoán giá bán bằng mô hình Machine Learning.

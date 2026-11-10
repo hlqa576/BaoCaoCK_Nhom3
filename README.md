@@ -34,16 +34,14 @@ Dự án được thực hiện nhằm phân tích dữ liệu bất động s�
 
 ## 5. Cấu trúc dự án
 
-```text
 BaoCaoCK_Nhom3/
 │
+├── app.py
 ├── BaoCaoCK_nhom3_Dudongianha.ipynb
 ├── README.md
 ├── requirements.txt
-│
-└── data/
-    └── modified_data.csv
-```
+├── .gitignore
+└── modified_data.csv
 
 ## 6. Hướng dẫn cài đặt và sử dụng
 
